@@ -71,11 +71,11 @@ http://www.tooplate.com/view/2037-orange-sea
         <div class="col_w300 float_r">
         	<h2 style=color:black> #Selfie!<!--Our Latest Works--></h2>
             <div class="fp_lw_box">
-                <h6><a href="#">Donec sit amet dolor nec sapien</a></h6>
+                <h6><a href="#"><!--Donec sit amet dolor nec sapien--></a></h6>
                 <a href="#"><img src="images/tooplate_image_02.jpg" class="image_wrapper" alt="News Image 01" /></a>
             </div>
             <div class="fp_lw_box">
-                <h6><a href="#">Nullam consectetur volutpat</a></h6>
+                <h6><a href="#"><!--Nullam consectetur volutpat--></a></h6>
                 <a href="#"><img src="images/tooplate_image_03.jpg" class="image_wrapper" alt="News Image 02" /></a>
             </div>
           	<a class="more" href="#">More</a>
